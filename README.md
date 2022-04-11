@@ -24,7 +24,7 @@ Es una herramienta creada en bash la cual es una Fuente Abierta, hace referencia
 * ./Osint.sh
 ```
 
-### Por: Escorpio28
+### Por: Escorpio28 y modificado por Lichito
 
 ### Captura:
 <p align="centro">
